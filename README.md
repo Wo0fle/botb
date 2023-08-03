@@ -1,3 +1,7 @@
+# **THIS MODPACK IS FOR FABRIC 1.20.1!!!**
+
+> Download from [Modrinth](https://modrinth.com/modpack/best-of-the-best/versions)
+
 # Best of the Best (BOTB)
 
 <center>
@@ -116,5 +120,7 @@ This modpack is a collection of the best performance enhancement and experience 
 |[spark](https://modrinth.com/mod/spark)|Performance profiler|
 |[MixinTrace](https://modrinth.com/mod/mixintrace)|Adds a way to tell which mod(s) caused a crash|
 |[Not Enough Crashes](https://modrinth.com/mod/notenoughcrashes)|Improves crashes|
+
+![](botb%20logo.png)
 
 </center>
